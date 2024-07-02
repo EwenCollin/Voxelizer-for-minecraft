@@ -1,1 +1,6 @@
-PIL
+enlighten
+Pillow
+numpy
+matplotlib
+pyrender
+trimesh
